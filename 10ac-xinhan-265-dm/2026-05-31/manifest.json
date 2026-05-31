@@ -1,0 +1,92 @@
+[
+    {
+        "account_folder":  "84567769011",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567792401",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567792483",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567834530",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567835089",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567836784",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567836989",
+        "has_json":  true,
+        "has_hdsd":  true,
+        "has_log":  true,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  true
+    },
+    {
+        "account_folder":  "84567887051",
+        "has_json":  false,
+        "has_hdsd":  false,
+        "has_log":  false,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567919082",
+        "has_json":  true,
+        "has_hdsd":  true,
+        "has_log":  true,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  false
+    },
+    {
+        "account_folder":  "84567920086",
+        "has_json":  true,
+        "has_hdsd":  true,
+        "has_log":  true,
+        "has_tdata":  true,
+        "has_modules":  true,
+        "has_exe":  true
+    }
+]
